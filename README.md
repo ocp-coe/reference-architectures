@@ -4,8 +4,6 @@ Reference Architectures
 RA Diagrams
 ----------
 
-OCP-on-GCP
-
 ![OCP-on-GCP](docs/images/OCP-on-GCP-Architecture.png?raw=true "OCP-on-GCP")
 
 **************
