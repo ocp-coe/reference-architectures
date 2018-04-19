@@ -1,7 +1,7 @@
 Reference Architectures
 ----------
 
-![OCP-on-GCP](docs/images/OCP-on-GCP-Architecture.png?raw=true "OCP-on-GCP")
+![OCP-on-GCP](docs/images/OCP-on-GCP-Architecture.png?raw=true "OCP-on-GCP")(https://github.com/openshift/openshift-ansible-contrib/tree/master/reference-architecture/gcp)
 
 **************
 OCP-on-AWS
